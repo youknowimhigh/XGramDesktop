@@ -23,6 +23,10 @@ Stable and test builds are published on the repository's **Releases** page.
 
 Never download XGram builds from untrusted mirrors. XGram will never ask you to upload or share your `tdata` directory.
 
+## Documentation
+
+Guides for installing and using XGram are available at [XGram Documentation](https://youknowimhigh.github.io/XGramDocs/).
+
 ## Building
 
 - [Windows build guide](docs/building-win-x64.md)
